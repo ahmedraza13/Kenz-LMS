@@ -1,6 +1,6 @@
-import Header from "../components/Header";
-import LMSBanner from "../components/LMSBanner";
-import Discover from "../components/Discover";
+import Header from "../components/Header.jsx";
+import LMSBanner from "../components/LMSBanner.jsx";
+import Discover from "../components/Discover.jsx";
 
 function HomeWithOutLogin() {
   return(
