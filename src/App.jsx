@@ -1,9 +1,9 @@
-import Home from "./pages/Home-one";
+import HomeWithOutLogin from "./pages/homewithoutlogin";
 
 function App(){
   return(
-    <Home/>
+    <HomeWithOutLogin/>
   )
 }
 
-export default Home;
+export default App;
