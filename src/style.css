@@ -156,3 +156,14 @@ body {
 }
 
 
+.footer-container{
+  background-color: black;
+}
+
+.footer-container h3 {
+  color: white;
+}
+
+.footer-container p{
+  color: white;
+}
