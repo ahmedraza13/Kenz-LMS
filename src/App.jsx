@@ -1,4 +1,4 @@
-import HomeWithOutLogin from "./pages/homewithoutlogin";
+import HomeWithOutLogin from "./pages/homewithoutlogin.jsx";
 
 function App(){
   return(
